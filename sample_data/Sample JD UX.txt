@@ -1,0 +1,46 @@
+We are building a next-generation Digital Twin platform that combines real-world data with immersive 3D visualizations. Our mission is to create intuitive, enterprise-grade applications that enable users to interact seamlessly with complex data and smart systems.
+We are seeking a UI/UX Designer with a passion for designing modern, user-friendly interfaces for web dashboards, mobile applications, and 3D interactions. This role offers the opportunity to influence the design language of cutting-edge digital twin solutions.
+
+
+Key Responsibilities
+
+
+
+Interface Design: Create clean, user-friendly dashboards, web, and mobile application interfaces.
+Prototyping: Develop wireframes, user flows, and high-fidelity prototypes using Figma / Adobe XD.
+Collaboration: Work closely with developers to ensure pixel-perfect design implementation.
+Design System: Build and maintain a scalable design system and component library.
+User Research: Conduct usability testing, gather feedback, and refine user journeys.
+3D Integration Support: Collaborate with 3D/Unreal teams to design intuitive UI for 3D interactions and visualizations.
+Requirements
+
+
+
+Education: Bachelor’s in Design, HCI, Visual Communication, or related field (or equivalent experience).
+Experience: 4+ years of professional UI/UX design experience for web or SaaS platforms.
+Core Expertise:
+Proficiency in Figma, Adobe XD, Photoshop, Illustrator.
+Strong portfolio showcasing dashboard, enterprise apps, and data visualization designs.
+Solid understanding of responsive design, accessibility, and user flows.
+Bonus Skills (Nice to Have):
+Experience with 3D/AR/VR interfaces or ArchViz UI.
+Basic knowledge of HTML, CSS, React, or frontend dev workflows.
+
+
+Soft Skills
+
+
+
+Strong creative problem-solving mindset.
+Excellent communication and presentation skills.
+Ability to collaborate with developers, 3D artists, and product teams.
+Attention to detail with a focus on user experience.
+
+
+Why Join Us
+
+
+
+Be part of an innovative product team shaping the future of Digital Twins.
+Work on projects with real-world enterprise impact.
+Enjoy creative freedom to influence product design and user experience.

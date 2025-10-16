@@ -1,0 +1,34 @@
+About the job
+We are seeking an experienced Agentic AI Developer to design and deploy advanced AI systems that reason, plan, and act autonomously. The ideal candidate will have hands-on experience integrating leading LLMs (Claude, OpenAI, ChatGPT, Gemini, etc.), developing multi-agent architectures, and working with cloud-based AI platforms such as Azure AI Foundry, AI Hub, AI Agents, or similar artifacts in AWS and GCP. Experience with modern web stacks (e.g., React, Node.js) and database technologies (e.g., Microsoft SQL Server) is a plus.
+Responsibilities:
+
+Design and develop agentic AI systems capable of reasoning, planning, and acting with minimal human intervention.
+Build multi-agent systems, memory architectures, and goal-oriented behavior loops to support complex decision-making.
+Integrate large language models (LLMs) such as GPT-4, Claude, Gemini, and others with tools, APIs, environments, or agents for enhanced execution and decision-making.
+Implement and customize agent frameworks, including Auto-GPT, LangGraph, OpenAgents, CrewAI, or proprietary architectures.
+Test and optimize agents in real-world or simulated environments (web navigation, API integration, workflow automation).
+Optimize for performance, safety, interpretability, and alignment of autonomous agents.
+Collaborate with ML engineers, product managers, and domain experts to ensure AI solutions are aligned with user needs and ethical standards.
+Stay abreast of the latest research in AGI, reinforcement learning, LLM reasoning, and multi-agent collaboration.
+Work with cloud-based AI platforms such as Azure AI Foundry, AI Hub, AI Agents, or similar AWS/GCP artifacts for scalable, production-ready deployments.
+Requirements:
+
+Bachelor’s or master’s degree in computer science, Artificial Intelligence, Machine Learning, or a related field (PhD preferred for research-focused roles).
+Proven experience developing intelligent agents, autonomous systems, or LLM-based tools.
+Strong Python programming skills and familiarity with ML libraries (PyTorch, LangChain, Hugging Face, Ray).
+Deep understanding of one or more of the following:
+Cognitive architectures (e.g., ACT-R, SOAR)
+Reinforcement learning or reward modeling
+LLM-based tool use and planning
+Prompt engineering, memory, and retrieval mechanisms
+Familiarity with agent simulation environments or orchestration frameworks.
+Practical experience with cloud-based AI platforms (Azure AI Foundry, AI Hub, AI Agents, or similar AWS/GCP artifacts).
+Strong analytical thinking and debugging skills.
+Passion for safe and beneficial AI development.
+Nice to Have:
+
+Experience with real-time autonomous systems (e.g., robotics, games, simulations).
+Publications in AI/ML/AGI fields.
+Experience in human-AI collaboration or AI alignment research.
+Proficiency in React, Node, and MSSQL for end-to-end application development.
+Experience with SQL data manipulation, aggregation, and cross-database compatibility
