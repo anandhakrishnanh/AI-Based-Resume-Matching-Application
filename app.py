@@ -8,10 +8,13 @@ from frontend.upload_resume import upload_resume_page
 from frontend.upload_job_description import upload_job_description_page
 from frontend.resume_summary_page import resume_summary_page
 from frontend.view_matches_page import view_matches_page
+from utils.utils import create_required_directories
 
 st.title("AI Based Resume Matching System")
 st.subheader("Welcome to the AI Based Resume Matching System")
 st.write("This web application allows you to upload resumes and job descriptions, and uses AI to match candidates to job roles based on their skills and experience.")
+
+create_required_directories()
 
 with st.sidebar:
     st.header("Navigation")
